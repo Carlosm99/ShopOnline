@@ -818,3 +818,11 @@ C:\Users\CarlosMonterrosa\Documents\c#\Shoponline.Web\Shoponline.Web\obj\Debug\n
 C:\Users\CarlosMonterrosa\Documents\c#\Shoponline.Web\Shoponline.Web\obj\Debug\net6.0\refint\Shoponline.Web.dll
 C:\Users\CarlosMonterrosa\Documents\c#\Shoponline.Web\Shoponline.Web\obj\Debug\net6.0\Shoponline.Web.pdb
 C:\Users\CarlosMonterrosa\Documents\c#\Shoponline.Web\Shoponline.Web\obj\Debug\net6.0\ref\Shoponline.Web.dll
+C:\Users\CarlosMonterrosa\Documents\c#\Shoponline.Web\Shoponline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.dll
+C:\Users\CarlosMonterrosa\Documents\c#\Shoponline.Web\Shoponline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.pdb
+C:\Users\CarlosMonterrosa\Documents\c#\Shoponline.Web\Shoponline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.pdb.gz
+C:\Users\CarlosMonterrosa\Documents\c#\Shoponline.Web\Shoponline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.dll.gz
+C:\Users\CarlosMonterrosa\Documents\c#\Shoponline.Web\Shoponline.Web\bin\Debug\net6.0\ShopOnline.Models.dll
+C:\Users\CarlosMonterrosa\Documents\c#\Shoponline.Web\Shoponline.Web\bin\Debug\net6.0\ShopOnline.Models.pdb
+C:\Users\CarlosMonterrosa\Documents\c#\Shoponline.Web\Shoponline.Web\obj\Debug\net6.0\build-gz\UTAFGqs0.gz
+C:\Users\CarlosMonterrosa\Documents\c#\Shoponline.Web\Shoponline.Web\obj\Debug\net6.0\build-gz\tuGl+Dhn.gz
